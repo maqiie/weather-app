@@ -1,10 +1,18 @@
 .title {
   font-size: 23px;
   font-weight: 700;
+  color: burlywood;
+
+}
+.title:hover{
+  transform: scale(1.5);
+  font-size:88px;
+  
+
 }
 
 .daily-item {
-  background-color: #f5f5f5;
+  background-color: #6b4747;
   border-radius: 15px;
   height: 40px;
   margin: 5px;
@@ -14,6 +22,8 @@
   font-size: 14px;
   padding: 5px 20px;
 }
+
+
 
 .icon-small {
   width: 40px;
